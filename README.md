@@ -31,46 +31,39 @@ so what is version control?
   - Followed by - "I missed that message and you just deleted 3 days work"
 - Avoid "What version of the code did we run to provide the July report?"
 
-__demo of how git/github work__
-
-### Some resources for learning git/github
-
-- ??
-- AI
-
 ## A place to edit and run your code
 
 - A computer with:
-  - Rstudio
-  - Positron
-  - VS Code
+  - [Rstudio](https://posit.co/download/rstudio-desktop)
+  - [Positron](https://positron.posit.co/)
+  - [VS Code](https://code.visualstudio.com/)
   - a lot of other things
-- posit.cloud
+- [Posit.cloud](https://posit.cloud/)
 - Github workspaces
-
-__demo each one quickly - continue on a computer__
 
 ### What do you need to install to get started in R?
 
-- R
-- text editor
-- git/github desktop
+- [R](https://cran.r-project.org/)
+- Text editor - I recommend RStudio or Positron
+- [git](https://git-scm.com/install/) or [GitHub desktop](https://desktop.github.com/download/)
 
-## Worked example 
+## Worked examples
 
-### Datasets
+During the workshop _THIS_ repository was created while demontrating 
+the basic features of a simple R workflow.
+
+### Dataset
 
 - [Marriages, civil unions, and divorces](https://www.stats.govt.nz/information-releases/marriages-civil-unions-and-divorces-year-ended-december-2025/)
-- Labour market statistics
 
 ## Simple chart
+
+Divorce rate since 1961
 
 ## Share the with team member
 
 (Introduce renv)
 
-## Integrate into organisation
+## Integrate with your organisation
 
 (Introduce quarto)
-
-## AI

@@ -11,6 +11,6 @@ divorces |>
   geom_line() +
   labs(title = 'Divorce rate in New Zealand', 
        subtitle ='Orders for dissolution of marriage and civil union granted in New Zealand per 1,000 estimated existing marriages and civil unions.',
-       caption = 'Source: StatsNZ')
+       caption = 'Source: StatsNZ') 
 
 ggsave("divorce-rate-fixed.png", width=6,height=4)
